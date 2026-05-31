@@ -1,0 +1,27 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Local notes
+private/
+raw/
+hackerone/
+*.log
+*.har
+
+# Secrets
+.env
+*.key
+*.pem
+*.p12
+*.pfx
+
+# Archives
+*.zip
+*.tar
+*.gz
+*.7z
+
+# Screenshots / temporary
+screenshots/private/
+evidence/private/
